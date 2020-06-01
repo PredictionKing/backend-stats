@@ -1,0 +1,9 @@
+{
+  "data":[
+ {"PlayerID":1, "Name":"Sven", "Position":"Top", "Ingame":"RB YoRZa", "Icon":"../../assets/Top_icon.png"},
+ {"PlayerID":9, "Name":"Pikarin", "Position":"Jungler", "Ingame":"RB Pikarin", "Icon":"../../assets/gr_Jungle.png"},
+ {"PlayerID":3, "Name":"Kyrielight", "Position":"Midlane", "Ingame":"RB Kyrielight", "Icon":"../../assets/Middle_icon.png"},
+ {"PlayerID":7, "Name":"Last3ngineer", "Position":"ADC", "Ingame":"RB Last3ngineer", "Icon":"../../assets/Bottom_icon.png"},
+ {"PlayerID":2, "Name":"cheter", "Position":"Support", "Ingame":"RB cheter", "Icon":"../../assets/Support_icon.png"}
+ ]
+}
